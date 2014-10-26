@@ -1,0 +1,14 @@
+:root {
+  --obvious: #FFEEDD;
+  --dark: #336600;
+  --shade: #eeedee;
+}
+
+html {
+	background-color: var(--shade);
+}
+
+a:hover, .hovering {
+	background-color: var(--dark);
+	color: var(--obvious);
+}

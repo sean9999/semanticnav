@@ -1,0 +1,14 @@
+header {
+	border: 1px dotted red;
+	clear: both;
+}
+
+header img.logo {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+header nav {
+	float: left;
+}

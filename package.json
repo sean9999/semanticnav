@@ -1,0 +1,33 @@
+{
+  "name": "semanticnav",
+  "version": "1.0.0",
+  "description": "an unobtrusive dropdown that respects semantic markup",
+  "main": "gulpfiles.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "private": true,
+  "dependencies": {
+    "gulp": "*",
+    "browser-sync": "*",
+    "gulp-myth": "*"
+  },
+  "devDependencies": {
+    "gulp-assets": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sean9999/semanticnav"
+  },
+  "keywords": [
+    "semantic",
+    "nav",
+    "dropdown"
+  ],
+  "author": "Sean Macdonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean9999/semanticnav/issues"
+  },
+  "homepage": "https://github.com/sean9999/semanticnav"
+}

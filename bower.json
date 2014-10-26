@@ -1,0 +1,29 @@
+{
+  "name": "semanticnav",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sean9999/semanticnav",
+  "authors": [
+    "Sean Macdonald <stuff@crazyhorsecoding.com>"
+  ],
+  "description": "an unobtrusive dropdown nav that aims to use clean, semantic markup, very little javascript, and have no dependencies",
+  "main": "src/index.html",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "semantic",
+    "nav",
+    "dropdown",
+    "html5"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

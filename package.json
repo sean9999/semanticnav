@@ -10,7 +10,11 @@
   "dependencies": {
     "gulp": "*",
     "browser-sync": "*",
-    "gulp-myth": "*"
+    "gulp-myth": "*",
+    "gulp-dom-src": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-autoprefixer": "*"
   },
   "devDependencies": {
     "gulp-assets": "^0.1.0"

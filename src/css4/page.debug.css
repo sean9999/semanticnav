@@ -1,0 +1,17 @@
+header:hover, section:hover, article:hover, aside:hover, footer:hover, body > div:hover {
+	border-width: 3px;
+	border-style: dotted;
+}
+
+header {
+	border-color: green;
+	clear: both;
+}
+
+article {
+	border-color: red;
+}
+
+aside {
+	border-color: purple;
+}

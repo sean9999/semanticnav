@@ -8,6 +8,10 @@ html {
 	background-color: var(--shade);
 }
 
+section, article, header, footer {
+	background-color: white;
+}
+
 a:hover, .hovering {
 	background-color: var(--dark);
 	color: var(--obvious);

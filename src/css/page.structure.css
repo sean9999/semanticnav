@@ -1,0 +1,61 @@
+;
+
+html {
+  background-color: #FED;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.foo {
+  color: #def;
+}
+
+iframe {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: inherit;
+}
+
+body {
+  max-width: 980px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+article {
+  max-width: calc(100% - 212px - 5px );
+  min-width: 424px;
+  float: left;
+  display: inline-block;
+}
+
+aside,
+aside > * {
+  overflow: hidden;
+  float: left;
+  display: inline-block;
+  width: 212px;
+}
+
+.clearer {
+  visibility: none;
+  clear: both;
+}
+
+header,
+article {
+  clear: both;
+}
+
+header > * {
+  float: left;
+}
+
+img.logo {
+  width: 100px;
+}

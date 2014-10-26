@@ -1,0 +1,30 @@
+;
+
+* {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+main {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: calc( -200px - 1em );
+}
+
+main {
+  content: "";
+  display: block;
+}
+
+footer,
+.page-wrap:after {
+  height: 200px;
+}
+
+footer {
+  background: orange;
+}

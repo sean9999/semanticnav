@@ -1,0 +1,16 @@
+html {
+  background-color: #eeedee;
+}
+
+section,
+article,
+header,
+footer {
+  background-color: white;
+}
+
+a:hover,
+.hovering {
+  background-color: #336600;
+  color: #FFEEDD;
+}
